@@ -1,0 +1,22 @@
+ONLINE FACULTY CLEARANCE SYSTEM IN PHP
+
+**LOGIN DETAILS** 
+
+Faculty
+user: 1
+pass: 1234
+
+Admin
+user: admin
+pass: 1234
+
+Designee
+user: accountant
+pass: 1234
+
+
+
+
+CREATE A DATABASE NAMING "onlineclearance" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
